@@ -1,3 +1,6 @@
 command = nu
 
 font-family = "FiraCode Nerd Font"
+
+
+theme = Kanagawa Wave
