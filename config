@@ -1,6 +1,5 @@
-command = nu
+command = zsh
 
 font-family = "FiraCode Nerd Font"
-
 
 theme = Kanagawa Wave
